@@ -1,0 +1,885 @@
+Start testing: Jun 17 11:24 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/42 Testing: getPlayerSymbol returns X for first player
+1/42 Test: getPlayerSymbol returns X for first player
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=getPlayerSymbol returns X for first player"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"getPlayerSymbol returns X for first player" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"getPlayerSymbol returns X for first player" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"getPlayerSymbol returns X for first player" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/42 Testing: getPlayerSymbol returns O for second player
+2/42 Test: getPlayerSymbol returns O for second player
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=getPlayerSymbol returns O for second player"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"getPlayerSymbol returns O for second player" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"getPlayerSymbol returns O for second player" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"getPlayerSymbol returns O for second player" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/42 Testing: getPlayerSymbol returns letters for additional players
+3/42 Test: getPlayerSymbol returns letters for additional players
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=getPlayerSymbol returns letters for additional players"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"getPlayerSymbol returns letters for additional players" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"getPlayerSymbol returns letters for additional players" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"getPlayerSymbol returns letters for additional players" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/42 Testing: getPlayerSymbol returns question mark for negative player index
+4/42 Test: getPlayerSymbol returns question mark for negative player index
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=getPlayerSymbol returns question mark for negative player index"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"getPlayerSymbol returns question mark for negative player index" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"getPlayerSymbol returns question mark for negative player index" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"getPlayerSymbol returns question mark for negative player index" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/42 Testing: isValidGameMode accepts valid modes
+5/42 Test: isValidGameMode accepts valid modes
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isValidGameMode accepts valid modes"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isValidGameMode accepts valid modes" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"isValidGameMode accepts valid modes" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isValidGameMode accepts valid modes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/42 Testing: isValidGameMode rejects invalid modes
+6/42 Test: isValidGameMode rejects invalid modes
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isValidGameMode rejects invalid modes"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isValidGameMode rejects invalid modes" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"isValidGameMode rejects invalid modes" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isValidGameMode rejects invalid modes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/42 Testing: isValidPlayersCount accepts valid player counts
+7/42 Test: isValidPlayersCount accepts valid player counts
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isValidPlayersCount accepts valid player counts"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isValidPlayersCount accepts valid player counts" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"isValidPlayersCount accepts valid player counts" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isValidPlayersCount accepts valid player counts" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/42 Testing: isValidPlayersCount rejects invalid player counts
+8/42 Test: isValidPlayersCount rejects invalid player counts
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isValidPlayersCount rejects invalid player counts"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isValidPlayersCount rejects invalid player counts" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"isValidPlayersCount rejects invalid player counts" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isValidPlayersCount rejects invalid player counts" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/42 Testing: isValidRoundsCount accepts positive round counts
+9/42 Test: isValidRoundsCount accepts positive round counts
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isValidRoundsCount accepts positive round counts"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isValidRoundsCount accepts positive round counts" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"isValidRoundsCount accepts positive round counts" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isValidRoundsCount accepts positive round counts" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/42 Testing: isValidRoundsCount rejects zero and negative round counts
+10/42 Test: isValidRoundsCount rejects zero and negative round counts
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isValidRoundsCount rejects zero and negative round counts"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isValidRoundsCount rejects zero and negative round counts" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 3 | 3 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"isValidRoundsCount rejects zero and negative round counts" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isValidRoundsCount rejects zero and negative round counts" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/42 Testing: isValidBoardSize accepts 3, 4 and 5
+11/42 Test: isValidBoardSize accepts 3, 4 and 5
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isValidBoardSize accepts 3\, 4 and 5"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isValidBoardSize accepts 3, 4 and 5" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 3 | 3 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"isValidBoardSize accepts 3, 4 and 5" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isValidBoardSize accepts 3, 4 and 5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/42 Testing: isValidBoardSize rejects invalid sizes
+12/42 Test: isValidBoardSize rejects invalid sizes
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isValidBoardSize rejects invalid sizes"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isValidBoardSize rejects invalid sizes" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 5 | 5 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"isValidBoardSize rejects invalid sizes" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isValidBoardSize rejects invalid sizes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/42 Testing: isCellInside returns true for valid cells on 3x3 board
+13/42 Test: isCellInside returns true for valid cells on 3x3 board
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isCellInside returns true for valid cells on 3x3 board"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isCellInside returns true for valid cells on 3x3 board" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 3 | 3 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"isCellInside returns true for valid cells on 3x3 board" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isCellInside returns true for valid cells on 3x3 board" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/42 Testing: isCellInside returns false for invalid cells on 3x3 board
+14/42 Test: isCellInside returns false for invalid cells on 3x3 board
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isCellInside returns false for invalid cells on 3x3 board"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isCellInside returns false for invalid cells on 3x3 board" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 5 | 5 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"isCellInside returns false for invalid cells on 3x3 board" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isCellInside returns false for invalid cells on 3x3 board" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/42 Testing: isCellInside works on 5x5 board
+15/42 Test: isCellInside works on 5x5 board
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isCellInside works on 5x5 board"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isCellInside works on 5x5 board" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"isCellInside works on 5x5 board" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isCellInside works on 5x5 board" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/42 Testing: isCellFree returns true for empty cells
+16/42 Test: isCellFree returns true for empty cells
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isCellFree returns true for empty cells"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isCellFree returns true for empty cells" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 3 | 3 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"isCellFree returns true for empty cells" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isCellFree returns true for empty cells" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/42 Testing: isCellFree returns false for occupied cells
+17/42 Test: isCellFree returns false for occupied cells
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isCellFree returns false for occupied cells"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isCellFree returns false for occupied cells" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"isCellFree returns false for occupied cells" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isCellFree returns false for occupied cells" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/42 Testing: isCellFree returns false for cells outside board
+18/42 Test: isCellFree returns false for cells outside board
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isCellFree returns false for cells outside board"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isCellFree returns false for cells outside board" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"isCellFree returns false for cells outside board" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isCellFree returns false for cells outside board" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/42 Testing: makeMove places symbol into empty cell
+19/42 Test: makeMove places symbol into empty cell
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=makeMove places symbol into empty cell"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"makeMove places symbol into empty cell" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"makeMove places symbol into empty cell" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"makeMove places symbol into empty cell" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/42 Testing: makeMove does not overwrite occupied cell
+20/42 Test: makeMove does not overwrite occupied cell
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=makeMove does not overwrite occupied cell"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"makeMove does not overwrite occupied cell" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 3 | 3 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"makeMove does not overwrite occupied cell" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"makeMove does not overwrite occupied cell" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/42 Testing: makeMove returns false for invalid coordinates
+21/42 Test: makeMove returns false for invalid coordinates
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=makeMove returns false for invalid coordinates"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"makeMove returns false for invalid coordinates" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"makeMove returns false for invalid coordinates" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"makeMove returns false for invalid coordinates" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/42 Testing: checkWin detects row win
+22/42 Test: checkWin detects row win
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=checkWin detects row win"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"checkWin detects row win" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"checkWin detects row win" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"checkWin detects row win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/42 Testing: checkWin returns false when row is incomplete
+23/42 Test: checkWin returns false when row is incomplete
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=checkWin returns false when row is incomplete"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"checkWin returns false when row is incomplete" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"checkWin returns false when row is incomplete" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"checkWin returns false when row is incomplete" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/42 Testing: checkWin detects column win
+24/42 Test: checkWin detects column win
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=checkWin detects column win"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"checkWin detects column win" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"checkWin detects column win" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"checkWin detects column win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/42 Testing: checkWin returns false when column is incomplete
+25/42 Test: checkWin returns false when column is incomplete
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=checkWin returns false when column is incomplete"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"checkWin returns false when column is incomplete" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"checkWin returns false when column is incomplete" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"checkWin returns false when column is incomplete" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/42 Testing: checkWin detects main diagonal win
+26/42 Test: checkWin detects main diagonal win
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=checkWin detects main diagonal win"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"checkWin detects main diagonal win" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"checkWin detects main diagonal win" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"checkWin detects main diagonal win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/42 Testing: checkWin returns false when main diagonal is incomplete
+27/42 Test: checkWin returns false when main diagonal is incomplete
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=checkWin returns false when main diagonal is incomplete"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"checkWin returns false when main diagonal is incomplete" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"checkWin returns false when main diagonal is incomplete" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"checkWin returns false when main diagonal is incomplete" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/42 Testing: checkWin detects secondary diagonal win
+28/42 Test: checkWin detects secondary diagonal win
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=checkWin detects secondary diagonal win"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"checkWin detects secondary diagonal win" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"checkWin detects secondary diagonal win" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"checkWin detects secondary diagonal win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/42 Testing: checkWin returns false when secondary diagonal is incomplete
+29/42 Test: checkWin returns false when secondary diagonal is incomplete
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=checkWin returns false when secondary diagonal is incomplete"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"checkWin returns false when secondary diagonal is incomplete" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"checkWin returns false when secondary diagonal is incomplete" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"checkWin returns false when secondary diagonal is incomplete" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/42 Testing: checkWin returns false on empty board
+30/42 Test: checkWin returns false on empty board
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=checkWin returns false on empty board"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"checkWin returns false on empty board" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"checkWin returns false on empty board" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"checkWin returns false on empty board" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/42 Testing: checkWin works on 4x4 board
+31/42 Test: checkWin works on 4x4 board
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=checkWin works on 4x4 board"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"checkWin works on 4x4 board" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"checkWin works on 4x4 board" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"checkWin works on 4x4 board" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/42 Testing: checkWin works on 5x5 board
+32/42 Test: checkWin works on 5x5 board
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=checkWin works on 5x5 board"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"checkWin works on 5x5 board" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"checkWin works on 5x5 board" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"checkWin works on 5x5 board" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/42 Testing: isDraw returns true for full board
+33/42 Test: isDraw returns true for full board
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isDraw returns true for full board"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isDraw returns true for full board" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"isDraw returns true for full board" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isDraw returns true for full board" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/42 Testing: isDraw returns false when board has empty cells
+34/42 Test: isDraw returns false when board has empty cells
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isDraw returns false when board has empty cells"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isDraw returns false when board has empty cells" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"isDraw returns false when board has empty cells" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isDraw returns false when board has empty cells" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/42 Testing: isDraw returns false for empty board
+35/42 Test: isDraw returns false for empty board
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=isDraw returns false for empty board"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"isDraw returns false for empty board" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"isDraw returns false for empty board" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"isDraw returns false for empty board" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/42 Testing: getFreeCells returns all cells on empty 3x3 board
+36/42 Test: getFreeCells returns all cells on empty 3x3 board
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=getFreeCells returns all cells on empty 3x3 board"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"getFreeCells returns all cells on empty 3x3 board" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"getFreeCells returns all cells on empty 3x3 board" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"getFreeCells returns all cells on empty 3x3 board" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/42 Testing: getFreeCells returns only empty cells
+37/42 Test: getFreeCells returns only empty cells
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=getFreeCells returns only empty cells"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"getFreeCells returns only empty cells" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"getFreeCells returns only empty cells" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"getFreeCells returns only empty cells" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/42 Testing: getFreeCells returns empty vector when board is full
+38/42 Test: getFreeCells returns empty vector when board is full
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=getFreeCells returns empty vector when board is full"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"getFreeCells returns empty vector when board is full" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"getFreeCells returns empty vector when board is full" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"getFreeCells returns empty vector when board is full" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/42 Testing: getRandomMove returns only available cell when one cell is free
+39/42 Test: getRandomMove returns only available cell when one cell is free
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=getRandomMove returns only available cell when one cell is free"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"getRandomMove returns only available cell when one cell is free" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"getRandomMove returns only available cell when one cell is free" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"getRandomMove returns only available cell when one cell is free" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/42 Testing: getRandomMove returns negative coordinates when no free cells exist
+40/42 Test: getRandomMove returns negative coordinates when no free cells exist
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=getRandomMove returns negative coordinates when no free cells exist"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"getRandomMove returns negative coordinates when no free cells exist" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"getRandomMove returns negative coordinates when no free cells exist" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"getRandomMove returns negative coordinates when no free cells exist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/42 Testing: getRandomMove always returns a valid free cell
+41/42 Test: getRandomMove always returns a valid free cell
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=getRandomMove always returns a valid free cell"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"getRandomMove always returns a valid free cell" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases:   1 |   1 passed | 0 failed | 41 skipped
+[doctest] assertions: 200 | 200 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"getRandomMove always returns a valid free cell" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"getRandomMove always returns a valid free cell" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/42 Testing: getRandomMove works on empty 5x5 board
+42/42 Test: getRandomMove works on empty 5x5 board
+Command: "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/Release/tic_tac_toe_tests.exe" "--test-case=getRandomMove works on empty 5x5 board"
+Directory: C:/Users/Lyosha/Desktop/tic_tac_toe_project/build
+"getRandomMove works on empty 5x5 board" start time: Jun 17 11:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 41 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"getRandomMove works on empty 5x5 board" end time: Jun 17 11:24 RTZ 2 (çèìà)
+"getRandomMove works on empty 5x5 board" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 17 11:24 RTZ 2 (çèìà)

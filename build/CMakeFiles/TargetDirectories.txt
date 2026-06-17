@@ -1,0 +1,15 @@
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/CMakeFiles/tic_tac_toe_lib.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/CMakeFiles/tic_tac_toe.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/CMakeFiles/Experimental.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/CMakeFiles/Nightly.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/CMakeFiles/Continuous.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/CMakeFiles/tic_tac_toe_tests.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/CMakeFiles/INSTALL.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-build/CMakeFiles/doctest_with_main.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-build/CMakeFiles/INSTALL.dir
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-build/CMakeFiles/ALL_BUILD.dir

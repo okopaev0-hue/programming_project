@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/tic_tac_toe_tests_tests-b858cb2.cmake")
+  include("C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/tic_tac_toe_tests_tests-b858cb2.cmake")
+else()
+  add_test(tic_tac_toe_tests_NOT_BUILT-b858cb2 tic_tac_toe_tests_NOT_BUILT-b858cb2)
+endif()

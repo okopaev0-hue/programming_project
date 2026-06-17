@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/cmake_install.cmake",
+		"C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

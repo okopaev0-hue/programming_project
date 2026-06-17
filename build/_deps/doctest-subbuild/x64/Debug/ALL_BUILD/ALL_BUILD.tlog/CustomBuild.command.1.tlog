@@ -1,0 +1,10 @@
+^C:\USERS\LYOSHA\DESKTOP\TIC_TAC_TOE_PROJECT\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-subbuild -BC:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-subbuild --check-stamp-file C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\USERS\LYOSHA\DESKTOP\TIC_TAC_TOE_PROJECT\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKEFILES\DB5CE8C4FFF70F06BFE03F6E862B0EF7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-subbuild -BC:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-subbuild/doctest-populate.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeFiles\db5ce8c4fff70f06bfe03f6e862b0ef7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B143A917-6CF9-39D9-A5F4-120829E621AD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

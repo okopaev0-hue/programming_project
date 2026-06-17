@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\CMakeFiles\fa3f04d5e28e330f529026d80206cd64\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ECA7D635-905D-38AF-A8DE-9C617A008BC3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

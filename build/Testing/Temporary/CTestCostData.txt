@@ -1,0 +1,43 @@
+getPlayerSymbol returns X for first player 1 0.0246947
+getPlayerSymbol returns O for second player 1 0.0251241
+getPlayerSymbol returns letters for additional players 1 0.0251625
+getPlayerSymbol returns question mark for negative player index 1 0.0255568
+isValidGameMode accepts valid modes 1 0.0245342
+isValidGameMode rejects invalid modes 1 0.0240264
+isValidPlayersCount accepts valid player counts 1 0.027289
+isValidPlayersCount rejects invalid player counts 1 0.0259164
+isValidRoundsCount accepts positive round counts 1 0.0270504
+isValidRoundsCount rejects zero and negative round counts 1 0.0273866
+isValidBoardSize accepts 3, 4 and 5 1 0.0252207
+isValidBoardSize rejects invalid sizes 1 0.0262769
+isCellInside returns true for valid cells on 3x3 board 1 0.024789
+isCellInside returns false for invalid cells on 3x3 board 1 0.0251141
+isCellInside works on 5x5 board 1 0.0245582
+isCellFree returns true for empty cells 1 0.0268863
+isCellFree returns false for occupied cells 1 0.0269208
+isCellFree returns false for cells outside board 1 0.0287353
+makeMove places symbol into empty cell 1 0.0280203
+makeMove does not overwrite occupied cell 1 0.0268702
+makeMove returns false for invalid coordinates 1 0.0284805
+checkWin detects row win 1 0.0253195
+checkWin returns false when row is incomplete 1 0.0255611
+checkWin detects column win 1 0.0235694
+checkWin returns false when column is incomplete 1 0.0243195
+checkWin detects main diagonal win 1 0.025454
+checkWin returns false when main diagonal is incomplete 1 0.0248254
+checkWin detects secondary diagonal win 1 0.0240687
+checkWin returns false when secondary diagonal is incomplete 1 0.0225949
+checkWin returns false on empty board 1 0.0252558
+checkWin works on 4x4 board 1 0.0248599
+checkWin works on 5x5 board 1 0.0256003
+isDraw returns true for full board 1 0.0268423
+isDraw returns false when board has empty cells 1 0.0258153
+isDraw returns false for empty board 1 0.0224305
+getFreeCells returns all cells on empty 3x3 board 1 0.0234218
+getFreeCells returns only empty cells 1 0.0241356
+getFreeCells returns empty vector when board is full 1 0.0245477
+getRandomMove returns only available cell when one cell is free 1 0.0249237
+getRandomMove returns negative coordinates when no free cells exist 1 0.0249487
+getRandomMove always returns a valid free cell 1 0.0246113
+getRandomMove works on empty 5x5 board 1 0.0234079
+---

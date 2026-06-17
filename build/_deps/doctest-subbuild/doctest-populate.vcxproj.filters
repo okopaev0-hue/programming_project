@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeFiles\6c6905a40246cfd27c069b76d045b841\doctest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeFiles\6c6905a40246cfd27c069b76d045b841\doctest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeFiles\6c6905a40246cfd27c069b76d045b841\doctest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeFiles\6c6905a40246cfd27c069b76d045b841\doctest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeFiles\6c6905a40246cfd27c069b76d045b841\doctest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeFiles\6c6905a40246cfd27c069b76d045b841\doctest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeFiles\6c6905a40246cfd27c069b76d045b841\doctest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeFiles\6c6905a40246cfd27c069b76d045b841\doctest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeFiles\ae5ab0420f514ec82e4fbc13f49fdfde\doctest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeFiles\db5ce8c4fff70f06bfe03f6e862b0ef7\doctest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Lyosha\Desktop\tic_tac_toe_project\build\_deps\doctest-subbuild\CMakeFiles\doctest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B143A917-6CF9-39D9-A5F4-120829E621AD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

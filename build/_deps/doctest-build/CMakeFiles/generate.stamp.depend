@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.4/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-4.4/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-4.4/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-src/CMakeLists.txt
+C:/Users/Lyosha/Desktop/tic_tac_toe_project/build/_deps/doctest-src/scripts/cmake/Config.cmake.in
